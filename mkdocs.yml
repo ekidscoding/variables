@@ -1,0 +1,10 @@
+site_name: Змінні Програмування
+site_url: https://ekidscoding.github.io/variables/
+theme:
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  name: material
+  language: uk
+  font:
+    text: Source Sans 3
+    code: Source Code Pro
