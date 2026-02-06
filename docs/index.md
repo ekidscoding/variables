@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Вітаю на сайті
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Тут ми поговоримо про [Змінні в Програмуванні](https://uk.wikipedia.org/wiki/%D0%97%D0%BC%D1%96%D0%BD%D0%BD%D0%B0_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)).
 
-## Commands
+## План курсу
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `Вступ` - база
+* `Перші кроки` - налаштування роботи
+* `Типи змінних` - трошки теорії
+* `Прості та складні типи` - більше практики
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Успіхів
